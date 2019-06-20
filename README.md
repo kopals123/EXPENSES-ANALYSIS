@@ -1,6 +1,6 @@
 # **EXPENSES-MANAGEMENT**
 
-##ABOUT
+## ABOUT
 
 The  project of “MANAGING EXPENSES” is an application for students to collect information of the monthly expenses they do which gets directly fed into the database, 
 so that the person can evaluate the expenses he/she made during the whole month and can manage it accordingly. 
