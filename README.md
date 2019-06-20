@@ -7,19 +7,19 @@ so that the person can evaluate the expenses he/she made during the whole month 
 It is an effective and economical way to keep record of all the data of the expenses as it is user friendly and stores data in the database permanently. 
 He/she can review it later and can track the monthly expenses and can act accordingly.
 
-##LANGUAGE USED
+## LANGUAGE USED
 
 * PYTHON
 
-##IDE USED
+## IDE USED
 
 * JETBRAINS PYCHARM
 
-##LOCAL SERVER USED
+## LOCAL SERVER USED
 
-*WAMPSERVER
+* WAMPSERVER
 
-##SAMPLE CODE
+## SAMPLE CODE
 
 ```
         def f3(self):
